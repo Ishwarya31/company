@@ -1,0 +1,13 @@
+#cl{
+     
+    border:yellow solid 10px;
+    width: 110px;
+    height: 110px;
+    padding:20px 10px;
+    border-radius: 100px;
+     
+    background: lightcoral;
+    margin-left: auto;
+    margin-right: auto;
+ }
+   
